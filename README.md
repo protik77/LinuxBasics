@@ -19,6 +19,7 @@ Linux questions from: https://github.com/chassing/linux-sysadmin-interview-quest
 | 5          | Yes (block-level) | Yes       | Yes (distributed)        |
 | 6          | Yes (block-level) | Yes       | Yes (double-distributed) |
 
+- More RAID:
 	- RAID 10: Creates striped set from series of mirrored drives
 	- RAID 01: Creates two stripes and mirrors them. Basically reads from two sets at once.
 - Level 0 backup: First full backup.
