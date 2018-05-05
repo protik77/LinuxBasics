@@ -174,5 +174,17 @@ Linux questions from: https://github.com/chassing/linux-sysadmin-interview-quest
 	- TCP: Transmission Control Protocol
 	- UDP: User Datagram Protocol
 	- For UDP, packets are sent and the sender will not wait for the recipients confirmation.
+- Networking:
+  - Cat 5: 
+    - Two copper cable twisted
+    - Max freq 100MHz
+  - Cat 6:
+    - Four cable twisted
+    - Max freq 250MHz
+    - Less crosstalk
+  - Cat 6a:
+    - 50MHz
+  - Crosstalk:
+    - Electromagnetic interference from one unshielded twisted pair to another.
 
 
